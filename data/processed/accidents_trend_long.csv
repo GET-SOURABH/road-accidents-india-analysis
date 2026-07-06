@@ -1,0 +1,145 @@
+serial_no,state_ut,region,year,accident_count
+29,Andaman and Nicobar Islands,Union Territory,2021,115
+29,Andaman and Nicobar Islands,Union Territory,2022,141
+29,Andaman and Nicobar Islands,Union Territory,2023,143
+29,Andaman and Nicobar Islands,Union Territory,2024,135
+1,Andhra Pradesh,South,2021,21556
+1,Andhra Pradesh,South,2022,21249
+1,Andhra Pradesh,South,2023,19949
+1,Andhra Pradesh,South,2024,19557
+2,Arunachal Pradesh,Northeast,2021,283
+2,Arunachal Pradesh,Northeast,2022,227
+2,Arunachal Pradesh,Northeast,2023,287
+2,Arunachal Pradesh,Northeast,2024,277
+3,Assam,Northeast,2021,7411
+3,Assam,Northeast,2022,7023
+3,Assam,Northeast,2023,7421
+3,Assam,Northeast,2024,7848
+4,Bihar,East,2021,9553
+4,Bihar,East,2022,10801
+4,Bihar,East,2023,11014
+4,Bihar,East,2024,11610
+30,Chandigarh,Union Territory,2021,208
+30,Chandigarh,Union Territory,2022,237
+30,Chandigarh,Union Territory,2023,182
+30,Chandigarh,Union Territory,2024,169
+5,Chhattisgarh,Central,2021,12375
+5,Chhattisgarh,Central,2022,13279
+5,Chhattisgarh,Central,2023,13468
+5,Chhattisgarh,Central,2024,14857
+31,Dadra and Nagar Haveli and Daman and Diu,Union Territory,2021,140
+31,Dadra and Nagar Haveli and Daman and Diu,Union Territory,2022,196
+31,Dadra and Nagar Haveli and Daman and Diu,Union Territory,2023,182
+31,Dadra and Nagar Haveli and Daman and Diu,Union Territory,2024,152
+32,Delhi,Union Territory,2021,4720
+32,Delhi,Union Territory,2022,5652
+32,Delhi,Union Territory,2023,5834
+32,Delhi,Union Territory,2024,5657
+6,Goa,West,2021,2849
+6,Goa,West,2022,3011
+6,Goa,West,2023,2846
+6,Goa,West,2024,2682
+7,Gujarat,West,2021,15186
+7,Gujarat,West,2022,15751
+7,Gujarat,West,2023,16349
+7,Gujarat,West,2024,15588
+8,Haryana,North,2021,9933
+8,Haryana,North,2022,10429
+8,Haryana,North,2023,10463
+8,Haryana,North,2024,9806
+9,Himachal Pradesh,North,2021,2404
+9,Himachal Pradesh,North,2022,2597
+9,Himachal Pradesh,North,2023,2253
+9,Himachal Pradesh,North,2024,2156
+33,Jammu and Kashmir,Union Territory,2021,5452
+33,Jammu and Kashmir,Union Territory,2022,6092
+33,Jammu and Kashmir,Union Territory,2023,6298
+33,Jammu and Kashmir,Union Territory,2024,5808
+10,Jharkhand,East,2021,4728
+10,Jharkhand,East,2022,5175
+10,Jharkhand,East,2023,5315
+10,Jharkhand,East,2024,5196
+11,Karnataka,South,2021,34647
+11,Karnataka,South,2022,39762
+11,Karnataka,South,2023,43440
+11,Karnataka,South,2024,43062
+12,Kerala,South,2021,33296
+12,Kerala,South,2022,43910
+12,Kerala,South,2023,48091
+12,Kerala,South,2024,48834
+34,Ladakh,Union Territory,2021,236
+34,Ladakh,Union Territory,2022,374
+34,Ladakh,Union Territory,2023,289
+34,Ladakh,Union Territory,2024,264
+35,Lakshadweep,Union Territory,2021,4
+35,Lakshadweep,Union Territory,2022,3
+35,Lakshadweep,Union Territory,2023,1
+35,Lakshadweep,Union Territory,2024,0
+13,Madhya Pradesh,Central,2021,48877
+13,Madhya Pradesh,Central,2022,54432
+13,Madhya Pradesh,Central,2023,55327
+13,Madhya Pradesh,Central,2024,56669
+14,Maharashtra,West,2021,29477
+14,Maharashtra,West,2022,33383
+14,Maharashtra,West,2023,35243
+14,Maharashtra,West,2024,36118
+15,Manipur,Northeast,2021,366
+15,Manipur,Northeast,2022,508
+15,Manipur,Northeast,2023,398
+15,Manipur,Northeast,2024,299
+16,Meghalaya,Northeast,2021,245
+16,Meghalaya,Northeast,2022,246
+16,Meghalaya,Northeast,2023,223
+16,Meghalaya,Northeast,2024,269
+17,Mizoram,Northeast,2021,69
+17,Mizoram,Northeast,2022,133
+17,Mizoram,Northeast,2023,106
+17,Mizoram,Northeast,2024,118
+18,Nagaland,Northeast,2021,746
+18,Nagaland,Northeast,2022,489
+18,Nagaland,Northeast,2023,303
+18,Nagaland,Northeast,2024,129
+19,Odisha,East,2021,10983
+19,Odisha,East,2022,11663
+19,Odisha,East,2023,11992
+19,Odisha,East,2024,12375
+36,Puducherry,Union Territory,2021,1049
+36,Puducherry,Union Territory,2022,1181
+36,Puducherry,Union Territory,2023,1308
+36,Puducherry,Union Territory,2024,1431
+20,Punjab,North,2021,5871
+20,Punjab,North,2022,6138
+20,Punjab,North,2023,6269
+20,Punjab,North,2024,6063
+21,Rajasthan,North,2021,20951
+21,Rajasthan,North,2022,23614
+21,Rajasthan,North,2023,24694
+21,Rajasthan,North,2024,24838
+22,Sikkim,Northeast,2021,155
+22,Sikkim,Northeast,2022,211
+22,Sikkim,Northeast,2023,182
+22,Sikkim,Northeast,2024,149
+23,Tamil Nadu,South,2021,55682
+23,Tamil Nadu,South,2022,64105
+23,Tamil Nadu,South,2023,67213
+23,Tamil Nadu,South,2024,67526
+24,Telangana,South,2021,21315
+24,Telangana,South,2022,21619
+24,Telangana,South,2023,22903
+24,Telangana,South,2024,25986
+25,Tripura,Northeast,2021,479
+25,Tripura,Northeast,2022,575
+25,Tripura,Northeast,2023,577
+25,Tripura,Northeast,2024,578
+27,Uttar Pradesh,North,2021,37729
+27,Uttar Pradesh,North,2022,41746
+27,Uttar Pradesh,North,2023,44534
+27,Uttar Pradesh,North,2024,46052
+26,Uttarakhand,North,2021,1405
+26,Uttarakhand,North,2022,1674
+26,Uttarakhand,North,2023,1691
+26,Uttarakhand,North,2024,1747
+28,West Bengal,East,2021,11937
+28,West Bengal,East,2022,13686
+28,West Bengal,East,2023,13795
+28,West Bengal,East,2024,13702
