@@ -1,0 +1,8 @@
+region,state_ut_count,total_accidents_2024,avg_accidents_2024,avg_accidents_per_lakh_pop_2024,median_accidents_per_lakh_pop_2024,total_absolute_change_2024,avg_yoy_change_2024_pct
+Central,2,71526,35763.0,56.7,56.7,2731,6.37
+East,4,42883,10720.75,15.6,13.4,767,1.42
+North,6,90662,15110.33,24.15,24.15,758,-1.1
+Northeast,8,9667,1208.38,13.36,11.6,170,-8.26
+South,5,204965,40993.0,78.28,67.9,3369,2.53
+Union Territory,8,13616,1702.0,37.36,29.7,-621,-17.41
+West,3,54388,18129.33,73.1,28.4,-50,-2.64

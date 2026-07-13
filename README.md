@@ -150,6 +150,26 @@ The value was retained as missing instead of being imputed because estimating it
 
 
 
+### Day 2 — Exploratory Data Analysis and SQL Analysis
+
+Completed the following tasks:
+
+- Created a separate EDA notebook for analysis
+- Compared raw accident-count rankings with population-normalized accident-rate rankings
+- Identified States/UTs that look riskier after population normalization
+- Analyzed absolute and percentage changes in accidents from 2023 to 2024
+- Compared regional accident patterns by volume, normalized risk and year-over-year change
+- Exported a regional summary dataset
+- Created a separate SQL analysis notebook using SQLite
+- Loaded cleaned CSV files into SQL tables
+- Wrote SQL queries for ranking, filtering, aggregation and trend analysis
+- Verified the national accident trend from 2021 to 2024 using SQL
+
+Key Day 2 insight:
+
+Raw accident counts and normalized accident rates tell different stories. Large States dominate the raw accident-count ranking, but smaller States/UTs become more visible when accidents are compared per lakh population.
+
+
 
 
 
