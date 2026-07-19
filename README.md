@@ -172,6 +172,32 @@ Raw accident counts and normalized accident rates tell different stories. Large 
 
 
 
+### Day 3 — Power BI Dashboard Development
+
+Power BI dashboard development is currently in progress.
+
+Completed so far:
+
+- Imported the cleaned State/UT, trend and regional datasets into Power BI
+- Created DAX measures for national totals, year-over-year change, State/UT coverage and ranking metrics
+- Built Page 1: Executive Overview
+- Added KPI cards for total accidents, YoY change, highest accident count and highest normalized accident rate
+- Created the national accident trend for 2021–2024
+- Created Top 10 State/UT comparisons using raw accident counts and accidents per lakh population
+- Added a four-page navigation structure
+
+Current dashboard status:
+
+- ✅ Page 1 — Executive Overview
+- ⏳ Page 2 — State/UT Deep Dive
+- ⏳ Page 3 — Change Analysis
+- ⏳ Page 4 — Regional Analysis
+
+![Power BI Executive Overview](images/dashboard_executive_overview.png)
+
+[Download the current Power BI report](dashboard/road_accidents_india_dashboard.pbix)
+
+The remaining dashboard pages will be added in the next project update.
 
 
 
